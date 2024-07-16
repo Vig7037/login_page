@@ -23,8 +23,8 @@ This is a Tkinter-based authentication application that includes a CAPTCHA verif
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Vig7037/login_page.git
+    cd login_page
     ```
 
 2. Install the required Python packages:
@@ -65,5 +65,5 @@ This is a Tkinter-based authentication application that includes a CAPTCHA verif
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL-3.0-1-ov-file License. See the [LICENSE](LICENSE) file for details.
 
